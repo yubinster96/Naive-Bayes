@@ -5,3 +5,5 @@ Libraries used: pandas, numpy, matplotlib.pyplot, sklearn.model_selection -> tra
 sklearn -> metrics
 
 Naive Bayes is good when there are multiple variables but we can assume they are indepdenent.. which is rare in a lot of real life situations / data. also doesn't really require a lot of training data and is fast
+
+Used Network_Ads.csv file
